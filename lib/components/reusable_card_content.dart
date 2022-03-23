@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'constants.dart';
+import '../constants.dart';
 
 class Reusablcardchild extends StatelessWidget {
   Reusablcardchild({this.icon, this.label});
